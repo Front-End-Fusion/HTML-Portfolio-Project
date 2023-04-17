@@ -1,0 +1,11 @@
+body {
+  background-color: #2c3333;
+}
+
+p {
+  text-shadow: red 1px 1px 2px;
+  font-size: 18px;
+
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  line-height: 25px;
+}
